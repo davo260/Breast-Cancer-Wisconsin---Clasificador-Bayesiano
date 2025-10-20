@@ -1,0 +1,6 @@
+Métrica,Valor
+Exactitud Empírica (test),0.9239766081871345
+Error Empírico (test),0.07602339181286555
+P(error|Benigno),0.0337
+P(error|Maligno),0.16069
+Error Bayes ponderado,0.0809224120603015
